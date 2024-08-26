@@ -1,7 +1,7 @@
 import datetime
 
 from django.db import models
-from polls.models import Choice, Question
+
 from django.utils import timezone
 
 # Create your models here.
